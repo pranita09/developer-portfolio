@@ -15,7 +15,7 @@ function ProjectCards(props) {
         style={{ objectFit: "cover" }}
       />
       <Card.Body>
-        <Card.Title style={{ fontSize: "24px", marginBottom: "4px" }}>
+        <Card.Title style={{ fontSize: "24px", marginBottom: "8px" }}>
           {props.title}
         </Card.Title>
         <Card.Text style={{ textAlign: "justify", fontSize: "15px" }}>
