@@ -1,0 +1,5 @@
+[[redirects]]
+from = "/*"
+to = "https://pranita-fulsundar.netlify.app/:splat"
+status = 301
+force = true
